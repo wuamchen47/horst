@@ -1,0 +1,30 @@
+$.emojiarea.path = 'js/packs/basic';
+$.emojiarea.icons = {
+	//':!smile.png:'     : 'smile.png',
+	//':!angry.png:'     : 'angry.png',
+	//':!flushed.png:'   : 'flushed.png',
+	//':!neckbeard.png:' : 'neckbeard.png',
+	//':!laughing.png:'  : 'laughing.png',
+	':!5blindfold.gif:'	:	'5blindfold.gif',
+	':!afro.gif:'	:	'afro.gif',
+	':!alright.gif:'	:	'alright.gif',
+	':!bahnhof.gif:'	:	'bahnhof.gif',
+	':!bow.gif:'	:	'bow.gif',
+	':!breakfast.gif:'	:	'breakfast.gif',
+	':!chrismas.gif:'	:	'chrismas.gif',
+	':!Deutschlandfahne.gif:'	:	'Deutschlandfahne.gif',
+	':!gehbuegeln.gif:'	:	'gehbuegeln.gif',
+	':!grandpa.gif:'	:	'grandpa.gif',
+	':!guitar.gif:'	:	'guitar.gif',
+	':!icon_eek.gif:'	:	'icon_eek.gif',
+	':!mulat.gif:'	:	'mulat.gif',
+	':!schaf.gif:'	:	'schaf.gif',
+	':!smilie_winki.gif:'	:	'smilie_winki.gif',
+	':!starwars.gif:'	:	'starwars.gif',
+	':!tired.gif:'	:	'tired.gif',
+	':!toilet.gif:'	:	'toilet.gif',
+	':!uglyhammer.gif:'	:	'uglyhammer.gif',
+	':!wave.gif:'	:	'wave.gif',
+	':!wheatbeer.gif:'	:	'wheatbeer.gif'
+
+};

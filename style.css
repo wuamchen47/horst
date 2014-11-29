@@ -1,0 +1,87 @@
+/*
+	99Lime.com HTML KickStart by Joshua Gatcke
+	style.css
+
+*/
+
+/*---------------------------------
+	IMPORTS
+-----------------------------------*/
+@import url(http://fonts.googleapis.com/css?family=Arimo:400,700);
+
+/*---------------------------------
+	OVERRIDES
+-----------------------------------*/
+h1,h2,h3,h4,h5,h6{
+font-family: "Arimo", arial, verdana, sans-serif;
+font-weight:normal;
+}
+
+thead th,
+tbody th{
+font-family: "Arimo", arial, verdana, sans-serif;
+}
+
+button,
+a.btn,
+input[type="submit"],
+input[type="reset"],
+input[type="button"]{
+font-family: "Arimo", arial, verdana, sans-serif;
+margin:5px;
+}
+
+.transp07 {
+   background: white;
+   opacity: 0.8;
+   filter:Alpha(Opacity=80);
+    border-radius: 5px;
+    padding:5px;
+}
+
+.menu{
+font-family: "Arimo", arial, verdana, sans-serif;
+}
+
+img.align-left, .img-wrap.align-left {
+float: left;
+margin: 5px 10px 5px 0;
+}
+
+
+/*---------------------------------
+	LAYOUT
+-----------------------------------*/
+
+    
+body{
+margin:0;
+padding:0 0 0 0;
+color:#000;
+background-image: url(css/img/bg_wood.jpg);
+background-attachment: fixed;
+background-repeat: repeat;
+    font:normal 0.9em/150% 'Arimo', arial, verdana, sans-serif;
+text-shadow: 0 0 1px transparent; /* google font pixelation fix */
+}
+
+.displayNone{
+    display:none;
+}
+
+#wrap{
+width:100%;
+background:#fff;
+margin:30px auto 30px auto;
+padding:0 2%;
+border:1px solid #ccc;
+}
+
+.rund{
+border-radius:10%;
+}
+
+.versteckt{
+display:none;
+visibility: hidden;
+}
