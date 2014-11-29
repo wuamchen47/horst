@@ -46,7 +46,7 @@
                         <div class="col_12">
                             <button class="medium green" style="cursor:auto;">
                     <?php
-                          echo  ("Hallo $current_username!<br/>Du bist eingeloggt");
+						echo  ("Hallo $current_username!<br/>Du bist eingeloggt");
                     ?>
                             </button>
                             <button id="comment_button" class="large orange"><i class="icon-comments"></i></button>
