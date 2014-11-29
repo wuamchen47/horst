@@ -74,7 +74,6 @@
                 <?php include 'includes/newslist.php'; ?>
             </div>
 
-            <div class="col_8" style="margin-bottom:100px;">Footer Zeile</div>
         </div>
     </div>
     <!-- END GRID-->
