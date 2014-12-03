@@ -1,5 +1,8 @@
 <?php
 	          
+if (!IsLoggedIn() && SAFE_GET("logout") != 1)
+    	TryCookieLogin($mysqli);
+
 $start_read=0;
 $npp=47;
 // anzahl der news auslesen

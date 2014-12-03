@@ -155,10 +155,10 @@ function SAFE_FILENAME($filename)
 function ValidateInput($input)
 {
   // entfernt unerlaubte zeichen und tags aus $input
-  
-  mysql_real_escape_string(
+  /*
+  $mysqli->real_escape_string(
     (get_magic_quotes_gpc() == 1 ? stripslashes($input) : $input)
-  );
+  );*/
   // bestimte Tags zulassen
   $input =  strip_tags($input, '<b><img><font><center>'); 
   return $input;
@@ -420,6 +420,9 @@ function brecho($strTxt)
 
 		echo $output;
 	}
+
+
+
 
 
 ?>

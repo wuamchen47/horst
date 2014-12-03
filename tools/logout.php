@@ -3,19 +3,17 @@
   // user + password gegen db checken
   // wenn erfolgreich, session variablen setzen
   //
-  require_once("../tools/db_conn.php");
+   require_once($_SERVER['DOCUMENT_ROOT']."/horst/tools/db_conn.php");
   
   $logout = SAFE_GET("logout");
-  
+
   if ($logout == "logout"){
-    $zeit = date("Y-m-d H:i:s");
-    $current_username = GetSession("s_name");
-    $sql = "insert into logs (name, logout( values ('$current_username', '$zeit');";
-    mysql_query($sql);
     
-    session_start();
-    session_unset();
-    session_destroy();
+	session_start();
+	$expire = time()-42000;
+  	setcookie("keks_id",  "", $expire, '/', false); // hostname=false needed to work on local webserver
+  	setcookie("keks_pass", "", $expire, '/', false);
+	session_destroy();
     
     echo("loggedOut");
     
