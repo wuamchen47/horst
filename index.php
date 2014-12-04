@@ -2,7 +2,8 @@
   error_reporting (E_ALL);
   require_once($_SERVER['DOCUMENT_ROOT']."/horst/tools/db_conn.php");
 	StartSession();	
-	
+if (!IsLoggedIn() && SAFE_GET("logout") != 1)
+    	TryCookieLogin($mysqli);	
 
 ?>	
 
