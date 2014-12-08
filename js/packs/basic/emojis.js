@@ -1,10 +1,5 @@
 $.emojiarea.path = 'js/packs/basic';
 $.emojiarea.icons = {
-	//':!smile.png:'     : 'smile.png',
-	//':!angry.png:'     : 'angry.png',
-	//':!flushed.png:'   : 'flushed.png',
-	//':!neckbeard.png:' : 'neckbeard.png',
-	//':!laughing.png:'  : 'laughing.png',
 	':!5blindfold.gif:'	:	'5blindfold.gif',
 	':!afro.gif:'	:	'afro.gif',
 	':!alright.gif:'	:	'alright.gif',
@@ -24,7 +19,22 @@ $.emojiarea.icons = {
 	':!tired.gif:'	:	'tired.gif',
 	':!toilet.gif:'	:	'toilet.gif',
 	':!uglyhammer.gif:'	:	'uglyhammer.gif',
-	':!wave.gif:'	:	'wave.gif',
-	':!wheatbeer.gif:'	:	'wheatbeer.gif'
+	':!badair.gif:'	:	'badair.gif',
+	':!banger.gif:'	:	'banger.gif',
+	':!bash.gif:'	:	'bash.gif',
+	':!beer.gif:'	:	'beer.gif',
+	':!crook.gif:'	:	'coffee.gif',
+	':!dafuer.gif:'	:	'dafuer.gif',
+	':!drinking.gif:'	:	'drinking.gif',
+	':!flush.gif:'	:	'flush.gif',
+	':!hiding.gif:'	:	'hiding.gif',
+	':!humping.gif:'	:	'humping.gif',
+	':!intobottle.gif:'	:	'intobottle.gif',
+	':!lol.gif:'	:	'lol.gif',
+	':!nono.gif:'	:	'nono.gif',
+	':!prost47.gif:'	:	'prost47.gif',
+	':!readcoffee.gif:'	:	'readcoffee.gif',
+	':!rotekarte.gif:'	:	'rotekarte.gif',
+	':!sehrverdaechtig.gif:'	:	'sehrverdaechtig.gif'
 
 };
