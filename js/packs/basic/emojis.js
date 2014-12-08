@@ -19,7 +19,7 @@ $.emojiarea.icons = {
 	':!tired.gif:'	:	'tired.gif',
 	':!toilet.gif:'	:	'toilet.gif',
 	':!uglyhammer.gif:'	:	'uglyhammer.gif',
-	':!badair.gif:'	:	'badair.gif',
+	':!5badair.gif:'	:	'5badair.gif',
 	':!banger.gif:'	:	'banger.gif',
 	':!bash.gif:'	:	'bash.gif',
 	':!beer.gif:'	:	'beer.gif',
