@@ -39,7 +39,9 @@ if (!IsLoggedIn() && SAFE_GET("logout") != 1)
         <div id="main">
             <div class="col_8">
             <div id="horstlogo" class="col_4">
-                <a href="#" onclick="window.location.reload(true);"><img src="css/img/horstlogo.png"/></a>
+                <a href="#" onclick="window.location.reload(true);">
+					<?php include 'includes/horstlogo.php'; ?>
+				</a>
             </div>
             <div class="col_8">
                     <?php
