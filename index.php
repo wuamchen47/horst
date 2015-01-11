@@ -38,11 +38,7 @@ if (!IsLoggedIn() && SAFE_GET("logout") != 1)
     <div class="grid">
         <div id="main">
             <div class="col_8">
-            <div id="horstlogo" class="col_4">
-                <a href="#" onclick="window.location.reload(true);">
-					<?php include 'includes/horstlogo.php'; ?>
-				</a>
-            </div>
+            <div id="horstlogo" onclick="window.location.reload(true);" class="col_4"><?php include 'includes/horstlogo.php'; ?></div>
             <div class="col_8">
                     <?php
                        if (IsLoggedIn()){
