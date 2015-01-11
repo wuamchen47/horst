@@ -25,7 +25,7 @@
      inkscape:cx="281.69409"
      inkscape:cy="-73.889425"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:object-paths="true"
      inkscape:window-width="1258"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,7 +76,7 @@
          sodipodi:role="line"
          id="tspan4057"
          x="399.04929"
-         y="351.61856"> </tspan></text>
+         y="351.61856" /></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -87,16 +87,22 @@
          sodipodi:role="line"
          id="tspan4061"
          x="-71.117676"
-         y="-2521.5515"></tspan></text>
+         y="-2521.5515" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="breuthschrift">
     <g
-       id="g4412">
+       id="g3055">
       <text
          sodipodi:linespacing="125%"
          id="text4035"
          y="102.8672"
          x="86.416718"
-         style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.60000001999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"
+         transform="translate(7.2420091,6.6016135)"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nanum Pen Script;-inkscape-font-specification:Nanum Pen Script"
            y="102.8672"
            x="86.416718"
@@ -107,20 +113,21 @@
          id="text4039"
          y="101.86549"
          x="141.18967"
-         style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.39999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.39999998000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"
+         transform="translate(7.2420091,6.6016135)"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;stroke:#000000;stroke-width:1.39999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nanum Pen Script;-inkscape-font-specification:Nanum Pen Script"
            y="101.86549"
            x="141.18967"
            id="tspan4041"
            sodipodi:role="line">r</tspan></text>
       <text
-         transform="scale(0.87683502,1.1404654)"
+         transform="matrix(0.87683502,0,0,1.1404654,7.2420091,6.6016135)"
          sodipodi:linespacing="125%"
          id="text4043"
          y="120.25826"
          x="201.28844"
-         style="font-size:167.99716187px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.39999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         style="font-size:167.99716187000001355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.39999998000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;stroke:#000000;stroke-width:1.39999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nanum Pen Script;-inkscape-font-specification:Nanum Pen Script"
            y="120.25826"
@@ -132,8 +139,9 @@
          id="text4047"
          y="88.338387"
          x="218.69113"
-         style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.39999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.39999998000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"
+         transform="translate(7.2420091,6.6016135)"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;stroke:#000000;stroke-width:1.39999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nanum Pen Script;-inkscape-font-specification:Nanum Pen Script"
            y="88.338387"
            x="218.69113"
@@ -141,28 +149,41 @@
            sodipodi:role="line">t</tspan></text>
       <text
          sodipodi:linespacing="125%"
-         id="text4051"
-         y="106.90089"
-         x="121.18307"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Tahoma;-inkscape-font-specification:Tahoma"
-           y="106.90089"
-           x="121.18307"
-           id="tspan4053"
-           sodipodi:role="line">burker   reuth.de</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
          id="text4140"
          y="115.84129"
          x="-4.3420091"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.39999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.39999998000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"
+         transform="translate(7.2420091,6.6016135)"><tspan
            style="font-size:200px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;stroke:#000000;stroke-width:1.39999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nanum Pen Script;-inkscape-font-specification:Nanum Pen Script"
            y="115.84129"
            x="-4.3420091"
            id="tspan4142"
            sodipodi:role="line">H</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3037"
+         y="112.09284"
+         x="128.15535"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+           y="112.09284"
+           x="128.15535"
+           id="tspan3039"
+           sodipodi:role="line">burkers</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3041"
+         y="112.76225"
+         x="238.25648"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+           y="112.76225"
+           x="238.25648"
+           id="tspan3043"
+           sodipodi:role="line">reuth.de</tspan></text>
     </g>
   </g>
 </svg>
