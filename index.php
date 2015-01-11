@@ -38,8 +38,8 @@ if (!IsLoggedIn() && SAFE_GET("logout") != 1)
     <div class="grid">
         <div id="main">
             <div class="col_8">
-            <div id="horstlogo" onclick="window.location.reload(true);" class="col_4"><?php include 'includes/horstlogo.php'; ?></div>
-            <div class="col_8">
+            <div id="horstlogo" onclick="window.location.reload(true);" class="col_6"><?php include 'includes/horstlogo.php'; ?></div>
+            <div class="col_6">
                     <?php
                        if (IsLoggedIn()){
                           $current_username = GetUserName();
